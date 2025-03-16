@@ -11,7 +11,6 @@
 - We cannot time our executions, so animations may not run at 100% speed at all times, but making the thread sleep; breaks the code, so states are required.
 ### Example of Working:
 ```cpp
-#include "cheats.hpp"
 #include "types.h"
 
 namespace CTRPluginFramework
