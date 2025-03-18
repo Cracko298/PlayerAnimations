@@ -33,3 +33,20 @@ namespace CTRPluginFramework
   }
 }
 ```
+### Body Information in Skin Defs:
+```
+Body.Pivot.X = 0x50
+Body.Pivot.Y = 0x5C
+Body.Pivot.Z = 0x68
+
+Body.Origin.X = 0x98
+Body.Origin.Y = 0xA4
+Body.Origin.Z = 0xB0
+
+Body.Scale.X = 0xC8
+Body.Scale.Y = 0xD4
+Body.Scale.Z = 0xE0
+
+Body.UV.X = 0xF8
+Body.UV.Y = 0x104
+````
